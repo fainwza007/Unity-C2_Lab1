@@ -32,12 +32,12 @@ git clone https://github.com/fainwza007/Unity-C2_Lab1.git
 
 
 #### Now the scene will show
-![image](https://user-images.githubusercontent.com/73292734/210136940-1546d001-9d3f-4315-81e7-bc897e822588.png)
+![image](https://user-images.githubusercontent.com/73292734/210623664-ef06ec62-63aa-46e8-8b92-4a561714f914.png)
 
 
 
 #### Click Play Button
-![image](https://user-images.githubusercontent.com/73292734/210135811-c8b9f8e5-f820-4c4f-bdd9-73cec33bf69c.png)
+![image](https://user-images.githubusercontent.com/73292734/210623719-5f044736-1d71-4f01-b945-b2a476ccc477.png)
 
 
 #### Result
