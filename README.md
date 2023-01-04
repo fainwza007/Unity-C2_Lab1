@@ -41,9 +41,7 @@ git clone https://github.com/fainwza007/Unity-C2_Lab1.git
 
 
 #### Result
-https://user-images.githubusercontent.com/73292734/210625184-c2244144-cff0-44e7-bd41-308857914fd9.mp4
-
-
+https://user-images.githubusercontent.com/73292734/210625401-e11313c6-9b30-4fad-8eaf-78ed8bab24db.mp4
 
 
 
